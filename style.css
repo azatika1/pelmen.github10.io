@@ -1,0 +1,167 @@
+body{
+    background-color: rgb(240, 233, 224);
+}
+.kvadrat{
+    height: 335px;
+    background: rgb(127, 255, 212);
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Angkor', sans-serif;
+}
+.imgan{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+h2{
+    text-align: center;
+    font-family: 'Bowlby One SC', sans-serif;
+}
+.menu{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-right: 10%;
+    color: black;
+}
+.menu a:last-child{
+    margin: 0;
+}
+.hp{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+.h{
+    font-family: 'Sarabun', sans-serif;
+}
+.line1{
+    height: 50px;
+    background: rgb(255, 0, 0);
+    margin: 0 auto;
+}
+.rp{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+.r{
+    font-family: 'Sarabun', sans-serif;
+}
+.line2{
+    height: 50px;
+    background: rgb(204, 0, 255);
+    margin: 0 auto;
+}
+.r2p{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+.r2{
+    font-family: 'Sarabun', sans-serif;
+}
+.imgan2{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan3{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan4{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan5{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan6{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan7{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan8{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.imgan9{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.r3{
+    font-family: 'Sarabun', sans-serif;
+}
+.r4{
+    font-family: 'Sarabun', sans-serif;
+}
+.r5{
+    font-family: 'Sarabun', sans-serif;
+}
+.r6{
+    font-family: 'Sarabun', sans-serif;
+}
+.r7{
+    font-family: 'Sarabun', sans-serif;
+}
+.r8{
+    font-family: 'Sarabun', sans-serif;
+}
+.r9{
+    font-family: 'Sarabun', sans-serif;
+}
+.r10{
+    font-family: 'Sarabun', sans-serif;
+}
+.s{
+    font-family: 'Sarabun', sans-serif;
+}
+.sp{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+.line3{
+    height: 50px;
+    background: rgb(0, 255, 64);
+    margin: 0 auto;
+}
+.imgan10{
+    display: block;
+    margin-left: auto;
+    margin-right: 430px;
+    width: 35%;
+}
+.kvadrat2{
+    height: 100px;
+    background: rgb(127, 255, 212);
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+    font-family: 'Bowlby One SC', sans-serif;
+}
